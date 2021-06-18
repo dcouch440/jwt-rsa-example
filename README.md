@@ -13,6 +13,9 @@ Source: https://www.youtube.com/watch?v=F0HLIe3kNvM
 
 clone repo
 
+open repo
+
+in the terminal run (from the project while inside your code editor)
 ```
 npm i
 ```
