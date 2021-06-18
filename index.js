@@ -54,4 +54,4 @@
   console.log('Decoded Header: ' + JSON.stringify(decoded.header));
   console.log('Decoded Payload: ' + JSON.stringify(decoded.payload));
 
-})()
+})();
