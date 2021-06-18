@@ -8,6 +8,7 @@ Source: https://www.youtube.com/watch?v=F0HLIe3kNvM
 ### `Tech Used`
 
 - JWT
+- RSA ALGORITHM ('RS256')
 
 ## `Setup`
 
